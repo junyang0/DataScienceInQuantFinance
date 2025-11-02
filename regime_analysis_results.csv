@@ -1,0 +1,4 @@
+Regime,Weeks,CNN-LSTM Sharpe,SPY Sharpe,CNN-LSTM Return,SPY Return
+Pre-COVID Bull (Oct 2015 - Feb 2020),228,1.49,0.83,20.74%,11.08%
+COVID Crisis (Mar 2020 - Dec 2020),43,0.34,1.06,4.09%,33.36%
+Recovery & Rates (Jan 2021 - Sep 2025),248,0.73,0.91,12.61%,14.60%
